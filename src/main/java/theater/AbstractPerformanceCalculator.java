@@ -46,7 +46,7 @@ public abstract class AbstractPerformanceCalculator {
     /**
      * Nothing.
      * @return nothing
-     * @throws RuntimeException throws unknow type error1
+     * @throws RuntimeException throws unknow type error
      */
     public abstract int amountFor();
 
